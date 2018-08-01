@@ -2,4 +2,4 @@ This repository contains my code as part of the assignments for the deep learnin
 
 This course serves as a good exercise for me to: 1) Practice Python programming 2) Familiarize myself with Python packages such as numpy, matplotlib, scikit-learn 3) Understand the foundations of deep learning 4) Build functions to implement vectorized neural networks from scratch.
 
-Small sense of accomplishment can be found here: https://www.coursera.org/account/accomplishments/certificate/GBKD5HBWJKRT
+Small sense of accomplishment can be found here: https://www.coursera.org/account/accomplishments/records/C5LMRYACN5VC
